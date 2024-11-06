@@ -19,8 +19,8 @@ START = """**
 ┗━━━━━•❃°•°❀•━━━━━┛
 
 ╔═══════════════╗
-║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/THE-VIP-BOY-OP/VIP-CHATBOT)
-║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ᴠɪᴘ ✯ ʙᴏʏ](https://t.me/the_vip_boy)
+║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/ranibow_tm)
+║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [RAIN ✯ BOW](https://t.me/RAINBOWDRAGON_TM)
 ╚═══════════════╝
 **"""
 
