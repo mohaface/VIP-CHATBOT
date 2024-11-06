@@ -65,9 +65,9 @@ morning_shayari = [ "🌅 ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ! ᴍᴀʏ ʏᴏᴜʀ ᴅ�
 
 
 # Command
-SHAYARI_COMMAND = get_command("SHAYARI_COMMAND","gf", "bf", "shayri", "sari", "shari", "love" )
+SHAYARI_COMMAND = get_command("SHAYARI_COMMAND")
 
-@app.on_message(filters.command(SHAYARI_COMMAND,prefixes=["", "/"]) & filters.group & ~BANNED_USERS)
+@app.on_message(filters.command(SHAYARI_COMMAND,"gf","love","bf"prefixes=["", "/"]) & filters.group & ~BANNED_USERS)
 @nexichat.on_message(filters.command(SHAYRI_COMMAND))
 async def shayri(client: Client, message: Message):
     await message.reply_text(
